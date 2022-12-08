@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github-readme-stats.vercel.app/api?username=Halterquentin&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-https://github-readme-stats.vercel.app/api/top-langs/?username=Halterquentin&layout=compact&theme=tokyonight&exclude_repo=Dashboard&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋 Welcome on my github profile !
 
