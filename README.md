@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 Welcome on my github profile !
 
 I am a frontend developer specialized in nothing and I make content on the internet.
-Owner of Pacifista the Minecraft server and owner of FunixProductions, streaming content.
+Not owner of Pacifista the Minecraft server and owner of FunixProductions, streaming content.
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/drakkades)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/drakkades)
